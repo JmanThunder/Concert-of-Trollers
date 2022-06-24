@@ -1633,3 +1633,24 @@
 		size = 1603
 	}
 }
+5170 = {
+	farmers = {
+		culture = patagonian
+		religion = animist
+		size = 1603
+	}
+}
+5171 = {
+	farmers = {
+		culture = patagonian
+		religion = animist
+		size = 1603
+	}
+}
+5172 = {
+	farmers = {
+		culture = patagonian
+		religion = animist
+		size = 1603
+	}
+}
